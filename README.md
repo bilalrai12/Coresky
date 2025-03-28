@@ -21,10 +21,10 @@ Coresky BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Coresky-BOT.git
+   git clone https://github.com/bilalrai12/Coresky.git
    ```
    ```bash
-   cd Coresky-BOT
+   cd Coresky
    ```
 
 2. **Install Requirements:**
